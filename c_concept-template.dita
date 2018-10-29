@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC
+    "-//OASIS//DTD DITA Concept//EN"
+    "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="add-meaningful-id-here">
+  <title>[ADD TITLE HERE]</title>
+  <shortdesc>[ADD SHORT DESCRIPTION HERE]</shortdesc>
+  <conbody>
+    <!-- Add your concept topic writing below -->
+    
+  </conbody>
+</concept>
