@@ -3,20 +3,59 @@
     "-//OASIS//DTD DITA Task//EN"
     "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id="enter-meaningful-id-here">
-  <title>[ENTER TITLE HERE]</title>
+<task id="how-to-request-course">
+  <title>Task Analysis of How Request Courses</title>
   <shortdesc>
-    [ENTER SHORT DESCRIPTION HERE]
+    These steps with help users navigate Hokie Spa so that they can efficiently request their courses for the upcoming semester
   </shortdesc>
 
   <taskbody>
     <context>
-      <p>[ENTER CONTEXT STATEMENT HERE]</p>
+      <p>Complete these steps to complete course request</p>
     </context>
       <steps>
-        <!-- Add elements as needed -->
         <step>
+            Check major/minor requirements
+        </step> 
+        <step>
+            Log into Hokie Spa
+            <substep>
+                Go to Degree Audit Menu
+            </substep>
         </step>
+        <step> 
+            Run DARS report
+            <substep>
+                Check unfulfilled areas and requirements
+            </substep>
+        </step>
+        <step>
+            Go to Timetable
+            <substep>
+                Look up courses 
+            </substep>
+            <substep>
+                Organize courses into desirable schedule
+            </substep>
+            <substep>
+                Write down CRNs
+            </substep>
+            <substep>
+                Go to Hokie Spa main page
+            </substep>
+        </step>
+        <step>
+            Go to Course Request Menu
+          </step>
+          <step>
+              Input CRNs in order of importance
+          </step>
+          <step> 
+              Click submit
+          </step>
+          <step>
+              Logout
+          </step>
       </steps>
   </taskbody>
 </task>
